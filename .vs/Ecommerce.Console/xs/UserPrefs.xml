@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{C563FD97-9519-46FB-8018-138CBAA24A25}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ecommerce.Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ecommerce.Console/Program.cs">
+    <Files>
+      <File FileName="Ecommerce.Console/Program.cs" Line="9" Column="1" />
+      <File FileName="Ecommerce.Console/Models/Pessoas/Pessoa.cs" Line="1" Column="1" />
+      <File FileName="Ecommerce.Console/Models/Pessoas/PessoaJuridica.cs" Line="1" Column="1" />
+      <File FileName="Ecommerce.Console/Models/Enderecos/Endereco.cs" Line="1" Column="1" />
+      <File FileName="Ecommerce.Console/Models/PessoasFisicas/PessoaFisica.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ecommerce.Console" expanded="True">
+            <Node name="Ecommerce.Console" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Enderecos" expanded="True" />
+                <Node name="Pessoas" expanded="True" />
+                <Node name="PessoasFisicas" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ecommerce.Console" expanded="True">
+            <Node name="Ecommerce.Console" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Enderecos" expanded="True" />
+                <Node name="Pessoas" expanded="True" />
+                <Node name="PessoasFisicas" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
